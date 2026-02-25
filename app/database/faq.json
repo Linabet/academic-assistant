@@ -1,0 +1,17 @@
+{
+    "stages": {
+        "fr": "Les stages sont obligatoires en L3. Vous devez trouver une entreprise avant avril.",
+        "ar": "التداريب إجبارية في السنة الثالثة. يجب العثور على شركة قبل أبريل.",
+        "darija": "Les stages kaytro f L3. Khassak tlqa chi entreprise qbel avril."
+    },
+    "absences": {
+        "fr": "Les absences doivent être justifiées sous 48h.",
+        "ar": "يجب تبرير الغيابات في غضون 48 ساعة.",
+        "darija": "Les absences khasshom ytjustiaw f 48h."
+    },
+    "documents": {
+        "fr": "Les documents administratifs sont disponibles au secrétariat.",
+        "ar": "الوثائق الإدارية متوفرة لدى السكرتارية.",
+        "darija": "Les documents administratifs kaynin f secrétariat."
+    }
+}
