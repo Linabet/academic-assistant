@@ -1,17 +1,57 @@
 {
-    "stages": {
-        "fr": "Les stages sont obligatoires en L3. Vous devez trouver une entreprise avant avril.",
-        "ar": "التداريب إجبارية في السنة الثالثة. يجب العثور على شركة قبل أبريل.",
-        "darija": "Les stages kaytro f L3. Khassak tlqa chi entreprise qbel avril."
-    },
-    "absences": {
-        "fr": "Les absences doivent être justifiées sous 48h.",
-        "ar": "يجب تبرير الغيابات في غضون 48 ساعة.",
-        "darija": "Les absences khasshom ytjustiaw f 48h."
-    },
-    "documents": {
-        "fr": "Les documents administratifs sont disponibles au secrétariat.",
-        "ar": "الوثائق الإدارية متوفرة لدى السكرتارية.",
-        "darija": "Les documents administratifs kaynin f secrétariat."
-    }
+  "stages": {
+    "fr": "Les stages sont obligatoires pour la première et la deuxième année. Vous devez trouver une entreprise avant avril.",
+    "ar": "التداريب إجبارية في السنة الأولى والثانية. يجب العثور على شركة قبل أبريل.",
+    "darija": "Les stages daroryin l3am lwl w l3am tani. Khassak tlqa chi entreprise qbel avril."
+  },
+  "filieres": {
+    "fr": "Les filières disponibles sont : Développement en Intelligence Artificielle, Développement des Applications Informatiques, Comptabilité et Gestion.",
+    "ar": "التخصصات المتوفرة هي: تطوير الذكاء الاصطناعي، تطوير تطبيقات المعلوماتية، المحاسبة والإدارة.",
+    "darija": "Filières li kaynin: Développement dial IA, Développement applications informatiques, Comptabilité w Gestion."
+  },
+  "examens": {
+    "fr": "Examens :\n- Première année : examen de passage (permet de valider les acquis avant de passer en deuxième année)\n- Deuxième année : examen national (sert à l’obtention du diplôme officiel)",
+    "ar": "الامتحانات:\n- السنة الأولى: امتحان اجتياز (للتحقق من مكتسبات الطالب قبل الانتقال للسنة الثانية)\n- السنة الثانية: الامتحان الوطني (للحصول على الدبلوم الرسمي)",
+    "darija": "Examens:\n- 3am lwl: exam de passage (bach t9der doz l3am tani)\n- 3am tani: exam national (bach takhd diplome dyalk)"
+  },
+  "horaires": {
+    "fr": "L’école est ouverte de 7h30 du matin jusqu’à 18h30.",
+    "ar": "المدرسة مفتوحة من الساعة 7:30 صباحًا حتى 18:30 مساءً.",
+    "darija": "L’école maftou7a mn 7h30 sbah l 18h30 ."
+  },
+  "documents_inscription": {
+    "fr": "Les frais d'inscription s'élèvent à 300 dirhams, dont 200 pour l'inscription et 100 pour l'association des parents.\nDocuments à fournir : copie de la carte d'identité du père ou tuteur, copie de la carte d'identité de l'élève, carte d'absence jaune, 3 enveloppes timbrées et 1 enveloppe recommandée, copie de l'état civil, 4 photos d'identité, dossier rigide (rouge pour L1, vert pour L2).",
+    "ar": "رسوم التسجيل تبلغ 300 درهم، منها 200 للتسجيل و100 لجمعية الآباء.\nالوثائق المطلوبة: نسخة من بطاقة هوية الأب أو الوصي، نسخة من بطاقة هوية الطالب، بطاقة الغياب الصفراء، 3 مظروف مختوم و1 مظروف مسجل، نسخة من الحالة المدنية، 4 صور شخصية، ملف صلب (أحمر للسنة الأولى، أخضر للسنة الثانية).",
+    "darija": "Frais inscription 300 dh, 200 dh inscription w100 dh association des parents.\nDocuments: copie carte identité dyal l’père/tuteur, copie carte identité dyal l’élève, carte absence jaune, 3 enveloppes timbrées w 1 recommandée, copie état civil, 4 photos, dossier rigide (rouge L1, vert L2)."
+  },
+  "autres_documents": {
+    "fr": "Pour obtenir des documents comme le certificat de scolarité ou d’autres attestations, vous devez vous adresser au directeur ou aux agents de sécurité Hasna et Mohamed.",
+    "ar": "للحصول على وثائق مثل شهادة الدراسة أو أي شهادات أخرى، يجب التوجه إلى المدير أو موظفي الأمن حسناء ومحمد.",
+    "darija": "Bach tkhrej documents bhal certificat de scolarité w attestations, sir l’directeur wla l’security Hasna w Mohamed."
+  },
+  "procedure_inscription": {
+    "fr": "Procédure d'inscription :\n1. Créez votre compte et inscrivez-vous sur la plateforme Massar.\n2. Attendez la publication des listes d'attente.\n3. Si votre nom apparaît, vous recevrez un appel.\n4. Rendez-vous à l'établissement pour déposer vos documents : bac original, photocopie du bac, carte d'identité, timbres, photos, dossier rigide.\n5. Vous recevrez alors votre dossier d'inscription officiel.",
+    "ar": "إجراءات التسجيل:\n1. أنشئ حسابك وسجل في منصة مسار.\n2. انتظر نشر قوائم الانتظار.\n3. إذا ظهر اسمك، ستتلقى اتصالاً.\n4. توجه إلى المؤسسة لتقديم مستنداتك: الشهادة الأصلية، نسخة من الشهادة، بطاقة الهوية، الأختام، الصور، الملف الصلب.\n5. ستستلم بعد ذلك ملف التسجيل الرسمي.",
+    "darija": "Procédure inscription:\n1. Créé compte w s’inscrire f Massar.\n2. Stanna listes d’attente.\n3. Ila smiyak kayn, t3ayet lik.\n4. Sir l’école w déposi documents: bac original, photocopie bac, carte identité, timbres, photos, dossier rigide.\n5. Ghad tkhrej dossier inscription officiel."
+  },
+  "emploi_temps": {
+    "fr": "L'emploi du temps peut être consulté directement à l’établissement. Les études commencent début septembre.",
+    "ar": "يمكن الاطلاع على جدول الحصص مباشرة في المؤسسة. تبدأ الدراسة بداية سبتمبر.",
+    "darija": "Emploi du temps kayn f établissement. Etudes kaybdaou début septembre."
+  },
+  "inscription_portail": {
+    "fr": "L’inscription se fait depuis la plateforme Massar (en ligne).",
+    "ar": "يتم التسجيل عبر منصة مسار (عبر الإنترنت).",
+    "darija": "Inscription katsir mn plateforme Massar (online)."
+  },
+  "reglement_interieur": {
+    "fr": "Tous les étudiants doivent respecter les règles suivantes : ponctualité, assiduité, respect du personnel et des autres étudiants, interdiction d’utiliser le téléphone en cours, respect du matériel et des locaux.",
+    "ar": "يجب على جميع الطلاب الالتزام بالقواعد التالية: الانضباط، الحضور المنتظم، احترام الطاقم والطلاب الآخرين، منع استخدام الهاتف في الفصل، احترام المعدات والمرافق.",
+    "darija": "Koll étudiant khassu ytkhl9 bih had les règles: ponctualité, assiduité, respect l’staff w étudiants, ma tist3mlch téléphone f cours, respect matos w locaux."
+  },
+  "transport_acces": {
+    "fr": "Il n’y a pas de transport officiel. Station de tram la plus proche : Place Financière (T2). Station de bus Way BW2 : Abdellah Benchrif.",
+    "ar": "لا يوجد نقل رسمي. أقرب محطة ترام: Place Financière (T2). محطة باص Way BW2: عبد الله بن شريف.",
+    "darija": "Ma kaynch transport officiel. A9rab station tram: Place Financière (T2). W a9rab station bus Way: Abdellah Benchrif (BW2)."
+  }
 }
